@@ -1,0 +1,10 @@
+name: hw3_assignment
+account: mekjr1
+server: shinyapps.io
+appId: 100752
+bundleId: 445675
+url: https://mekjr1.shinyapps.io/hw3_assignment/
+when: 1462797547.11029
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: hw3_104761505_AbdulMeque.R
